@@ -21,6 +21,7 @@
 - [Digging into malloc](https://reversea.me/index.php/digging-into-malloc/)
 - [Exploiting a textbook use-after-free in Chrome](https://securitylab.github.com/research/CVE-2020-6449-exploit-chrome-uaf/)
 - [Some notes on attacking musl-libc's new heap allocator](https://github.com/DanielWood/mallocng-exploitation)
+- [Exim Heap-based Buffer Overflow Notes](https://www.synacktiv.com/en/publications/scraps-of-notes-on-exploiting-exim-vulnerabilities.html)
 
 ## Heap Internals
 
